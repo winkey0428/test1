@@ -14,6 +14,7 @@ namespace ConsoleApp1
             int x = 3;
             Console.Write($"x={x}");
             Console.ReadKey();
+            int y = 5;
         }
     }
 }
